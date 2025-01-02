@@ -1,0 +1,167 @@
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.exe.config
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.exe
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.pdb
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.AssemblyReference.cache
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Form1.resources
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Properties.Resources.resources
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.GenerateResource.cache
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.CoreCompileInputs.cache
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.exe
+D:\database\Cruise Line Project\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.pdb
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.exe.config
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.exe
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.pdb
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Properties.Resources.resources
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.exe
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.pdb
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.SignUp.resources
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Login.resources
+C:\Users\Hp\Desktop\DATABASE PROJECT\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Welcome.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.exe.config
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.exe
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\bin\Debug\Cruise_Line.pdb
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Welcome.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Login.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Properties.Resources.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.SignUp.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.exe
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.pdb
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.CustomerInterface.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.ViewCustomerInfo.resources
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.exe.config
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.exe
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.pdb
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.CustomerInterface.resources
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewCustomerInfo.resources
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Welcome.resources
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Login.resources
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Properties.Resources.resources
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.SignUp.resources
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.exe
+C:\Users\user\Source\Repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.pdb
+C:\Users\Hp\Desktop\gggg\Cruise_Line\bin\Debug\Cruise_Line.exe.config
+C:\Users\Hp\Desktop\gggg\Cruise_Line\bin\Debug\Cruise_Line.exe
+C:\Users\Hp\Desktop\gggg\Cruise_Line\bin\Debug\Cruise_Line.pdb
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.CustomerInterface.resources
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.ViewCustomerInfo.resources
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.Welcome.resources
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.Login.resources
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.Properties.Resources.resources
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.SignUp.resources
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.exe
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.pdb
+C:\Users\Hp\Desktop\gggg\Cruise_Line\obj\Debug\Cruise_Line.Activities.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.exe.config
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.exe
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.pdb
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Activities.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.CustomerInterface.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewCustomerInfo.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Welcome.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Login.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.SignUp.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.exe
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.pdb
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddCruise.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddStaff.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AssignStaff.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ManagerInterface.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddActivity.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Activities.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddActivity.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddCruise.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddStaff.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AssignStaff.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.info.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ManagerInterface.resources
+C:\Users\Dell\source\repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.info.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewCruises.resources
+C:\Users\Dell\source\repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewCruises.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddShip.resources
+C:\Users\Dell\source\repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddShip.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.StaffInterface.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.viewassigned.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.viewcabinsavailable.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.ViewBookedCruises.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.BookingForm.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.BookingForm.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewBookedCruises.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.StaffInterface.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.viewassigned.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.viewcabinsavailable.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.BookingForm.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewBookedCruises.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.trackactivity.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.trackactivity.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.Activities.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.AddActivity.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.AddCruise.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.AddShip.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.AddStaff.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.AssignStaff.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.info.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.ManagerInterface.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.StaffInterface.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.trackactivity.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.viewassigned.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.viewcabinsavailable.resources
+C:\Users\muham\OneDrive\Desktop\Cruise_Line\Cruise_Line\Cruise_Line\obj\Debug\Cruise_Line.ViewCruises.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ReassignCabin.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ReassignCabin.resources
+C:\Users\Dell\Source\Repos\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.showstatistics.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.exe.config
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.exe
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\bin\Debug\Cruise_Line.pdb
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Activities.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddActivity.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddCruise.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddShip.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AddStaff.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.AssignStaff.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.BookingForm.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.cruisesreport.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.CustomerInterface.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.info.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ManagerInterface.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ReassignCabin.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.showstatistics.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.StaffInterface.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.trackactivity.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.viewassigned.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.viewcabinsavailable.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewCruises.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewBookedCruises.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewCustomerInfo.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Welcome.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Login.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Properties.Resources.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.SignUp.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.exe
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.pdb
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Cabinutilization.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.loyalityprogram.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.Cabinutilization.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.cruisesreport.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.loyalityprogram.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.showstatistics.resources
+C:\Users\user\source\repos\elhussienawad1\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewPayments.resources
+C:\Users\Dell\Desktop\CruiseLine\Cruise_Line\obj\Debug\Cruise_Line.ViewPayments.resources
